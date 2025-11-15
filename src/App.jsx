@@ -1,6 +1,6 @@
 import React from 'react';
-import { ClickProvider } from './Assignment3/ClickContext';
-import Home from './Assignment3/Home';
+import Home from './Home';
+import { ClickProvider } from './ClickContext';
 
 
 function App() {

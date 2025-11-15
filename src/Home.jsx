@@ -1,7 +1,7 @@
 import React from 'react';
 import Button from './Button';
 import { useClick } from './ClickContext';
- import '../index.css';
+//  import '../index.css';
 
 
 const Home = () => {
